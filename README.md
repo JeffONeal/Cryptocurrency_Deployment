@@ -16,7 +16,7 @@ Once all three contracts are deployed you will enter in the relevant addresses i
 
 ![alt=""](Images/KaseiCoin_Deploy.png)
 
-![alt=""](Images/Crowdsale_Deployer_Deploy.png)
+![alt=""](Images/Crowdsale_Delpoyer_Deploy.png)
 
 ![alt=""](Images/Crowdsale_Deploy.png)
 
